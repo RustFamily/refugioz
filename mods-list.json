@@ -40,6 +40,7 @@
   "@IRP-Land-Rover-Defender-110",
   "@MBM_ApocalypseTruck",
   "@RaG_Vehicle_Pack",
+  "@SurvivorAnimations",
   "@BasicTerritories"
 ],
 "Mods": [
@@ -80,10 +81,10 @@
     "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@IRP-Land-Rover-Defender-110.zip"
   },  
   {
-    "FileName": "Mods/@MBM_ApocalypseTruck.zip",
-    "Size": 95061010,
-    "MD5": "6E2E57E50FEF7B9F73D4598EB7EE851A",
-    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@MBM_ApocalypseTruck.zip"
+    "FileName": "Mods/@SurvivorAnimations.zip",
+    "Size": 31372205,
+    "MD5": "03FE696AE65979B09F11DE482667A995",
+    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@SurvivorAnimations.zip"
   },  
   {
     "FileName": "Mods/@RaG_Vehicle_Pack.zip",
