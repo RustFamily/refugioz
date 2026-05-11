@@ -37,6 +37,10 @@
   "@DayZ-Expansion",
   "@VPPAdminTools",
   "@Airdrop-Upgraded",
+  "@[CnG]UAZ_452",
+  "@IRP-Land-Rover-Defender-110",
+  "@MBM_ApocalypseTruck",
+  "@RaG_Vehicle_Pack",
   "@BasicTerritories"
 ],
 "Mods": [
@@ -69,6 +73,27 @@
     "Size": 15749732,
     "MD5": "BCC31BB6E1EF3BA9ADEA9089FBBE894A",
     "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@Airdrop-Upgraded.zip"
+  },
+  {
+    "FileName": "Mods/@[CnG]UAZ_452zip",
+    "Size": 845013856,
+    "MD5": "1DFD0F442DB055DEE4263A5EDAE13DA1",
+    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@[CnG]UAZ_452.zip"
+  },  {
+    "FileName": "Mods/@IRP-Land-Rover-Defender-110.zip",
+    "Size": 107922755,
+    "MD5": "02EA66B0177F5855A72A42B650D9406C",
+    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@IRP-Land-Rover-Defender-110.zip"
+  },  {
+    "FileName": "Mods/@MBM_ApocalypseTruck.zip",
+    "Size": 95061010,
+    "MD5": "6E2E57E50FEF7B9F73D4598EB7EE851A",
+    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@MBM_ApocalypseTruck.zip"
+  },  {
+    "FileName": "Mods/@RaG_Vehicle_Pack.zip",
+    "Size": 1044501735,
+    "MD5": "6E2E57E50FEF7B9F73D4598EB7EE851A",
+    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@RaG_Vehicle_Pack.zip"
   },
   {
     "FileName": "Mods/@DayZ-Expansion.zip",
