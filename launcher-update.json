@@ -1,0 +1,19 @@
+{
+    "enabled":  true,
+    "latestVersion":  "1.0.1",
+    "minimumRequiredVersion":  "1.0.0",
+    "forceUpdate":  false,
+    "title":  "Atualização disponível",
+    "message":  "Uma nova versão do launcher RefúgioZ está disponível.",
+    "downloadUrl":  "https://raw.githubusercontent.com/RustFamily/refugioz/main/launcher/Ref%C3%BAgioZ.exe",
+    "updaterUrl":  "https://raw.githubusercontent.com/RustFamily/refugioz/main/launcher/Ref%C3%BAgioZ_Update.exe",
+    "sha256":  "fc25713f8c2871ab03ee0eaec73e5775b47bbd3d6edeb8b0b0441898086ea873",
+    "fileName":  "RefúgioZ.exe",
+    "updaterSha256":  "f0dc1ab4c7254358a92791d6e69b5ca65ef280d43677c6b98ab8aa74d157b9ff",
+    "updaterFileName":  "RefúgioZ_Update.exe",
+    "releaseNotes":  [
+                         "Correções no launcher",
+                         "Melhorias no Discord RPC",
+                         "Novo fluxo de atualização com updater separado"
+                     ]
+}

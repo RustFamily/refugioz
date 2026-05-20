@@ -1,105 +1,105 @@
 {
-  "Version": "1.0",
-  "ServerInfo": {
-    "Server1": {
-      "IP": "127.0.0.1",
-      "Port": "2302",
-      "Name": "LOCAL"
-    },
-    "Server2": {
-      "IP": "189.127.165.103",
-      "Port": "2302",
-      "Name": "RefúgioZ"
-    }
-  },
-"ExistingMods": [
-  "@CF",
-  "@DabsFramework",
-  "@DayZ-Expansion-Core",
-  "@DayZ-Expansion-Chat",
-  "@DayZ-Expansion-Name-Tags",
-  "@DayZ-Expansion-Navigation",
-  "@DayZ-Expansion-Spawn-Selection",
-  "@DayZ-Expansion-Groups",
-  "@BuildStackX3",
-  "@BaseBuildingPlus",
-  "@BBPItemPack",
-  "@CodeLock",
-  "@MMG-Base-Storage",
-  "@Breachingcharge",
-  "@Backpack",
-  "@CarPack",
-  "@FT-Promocodes-FREE",
-  "@MZ-KOTH",
-  "@Stryker_Admin_Clothing",
-  "@DayZ-Expansion-Book",
-  "@DayZ-Expansion",
-  "@VPPAdminTools",
-  "@Airdrop-Upgraded",
-  "@RaG_Vehicle_Pack",
-  "@SurvivorAnimations",
-  "@BasicTerritories"
-],
-"Mods": [
-  {
-    "FileName": "Mods/@DayZ-Expansion-Book.zip",
-    "Size": 37463513,
-    "MD5": "3F88850CD547CF39161C31ED38CE37EC",
-    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@DayZ-Expansion-Book.zip"
-  },
-  {
-    "FileName": "Mods/@DayZ-Expansion-Navigation.zip",
-    "Size": 1401355,
-    "MD5": "9476F0DA47A94F8454159F327A02D0B1",
-    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@DayZ-Expansion-Navigation.zip"
-  },
-  {
-    "FileName": "Mods/@BasicTerritories.zip",
-    "Size": 64766,
-    "MD5": "722CA52023A1EFDB2C3B3EDBDA5D472C",
-    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@BasicTerritories.zip"
-  },
-  {
-    "FileName": "Mods/@VPPAdminTools.zip",
-    "Size": 4561780,
-    "MD5": "9A2F5F7C246A74EF1EAFFBD379C4D670",
-    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@VPPAdminTools.zip"
-  },
-  {
-    "FileName": "Mods/@Airdrop-Upgraded.zip",
-    "Size": 15749732,
-    "MD5": "BCC31BB6E1EF3BA9ADEA9089FBBE894A",
-    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@Airdrop-Upgraded.zip"
-  },
-  {
-    "FileName": "Mods/@IRP-Land-Rover-Defender-110.zip",
-    "Size": 107922755,
-    "MD5": "02EA66B0177F5855A72A42B650D9406C",
-    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@IRP-Land-Rover-Defender-110.zip"
-  },  
-  {
-    "FileName": "Mods/@SurvivorAnimations.zip",
-    "Size": 31372205,
-    "MD5": "03FE696AE65979B09F11DE482667A995",
-    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@SurvivorAnimations.zip"
-  },  
-  {
-    "FileName": "Mods/@RaG_Vehicle_Pack.zip",
-    "Size": 1044501735,
-    "MD5": "6E2E57E50FEF7B9F73D4598EB7EE851A",
-    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@RaG_Vehicle_Pack.zip"
-  },
-  {
-    "FileName": "Mods/@Breachingcharge.zip",
-    "Size": 12626070,
-    "MD5": "1A41FE9126DB7F9C4FDD56A6905E0B6E",
-    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@Breachingcharge.zip"
-  },
-  {
-    "FileName": "Mods/@DayZ-Expansion.zip",
-    "Size": 109561056,
-    "MD5": "DE3A45A1B28D5388C1668FC676B8BF09",
-    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@DayZ-Expansion.zip"
-  }
-]
+    "Version":  "1.0",
+    "ServerInfo":  {
+                       "Server1":  {
+                                       "IP":  "127.0.0.1",
+                                       "Port":  "2302",
+                                       "Name":  "LOCAL"
+                                   },
+                       "Server2":  {
+                                       "IP":  "189.127.165.103",
+                                       "Port":  "2302",
+                                       "Name":  "RefúgioZ"
+                                   }
+                   },
+    "ExistingMods":  [
+                         "@CF",
+                         "@DabsFramework",
+                         "@DayZ-Expansion-Core",
+                         "@DayZ-Expansion-Chat",
+                         "@DayZ-Expansion-Name-Tags",
+                         "@DayZ-Expansion-Navigation",
+                         "@DayZ-Expansion-Spawn-Selection",
+                         "@DayZ-Expansion-Groups",
+                         "@BuildStackX3",
+                         "@BaseBuildingPlus",
+                         "@BBPItemPack",
+                         "@CodeLock",
+                         "@MMG-Base-Storage",
+                         "@Breachingcharge",
+                         "@Backpack",
+                         "@CarPack",
+                         "@FT-Promocodes-FREE",
+                         "@MZ-KOTH",
+                         "@Stryker_Admin_Clothing",
+                         "@DayZ-Expansion-Book",
+                         "@DayZ-Expansion",
+                         "@VPPAdminTools",
+                         "@Airdrop-Upgraded",
+                         "@RaG_Vehicle_Pack",
+                         "@SurvivorAnimations",
+                         "@BasicTerritories"
+                     ],
+    "Mods":  [
+                 {
+                     "FileName":  "Mods/@DayZ-Expansion-Book.zip",
+                     "Size":  37463513,
+                     "MD5":  "3F88850CD547CF39161C31ED38CE37EC",
+                     "DownloadUrl":  "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@DayZ-Expansion-Book.zip"
+                 },
+                 {
+                     "FileName":  "Mods/@DayZ-Expansion-Navigation.zip",
+                     "Size":  1401355,
+                     "MD5":  "9476F0DA47A94F8454159F327A02D0B1",
+                     "DownloadUrl":  "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@DayZ-Expansion-Navigation.zip"
+                 },
+                 {
+                     "FileName":  "Mods/@BasicTerritories.zip",
+                     "Size":  64766,
+                     "MD5":  "722CA52023A1EFDB2C3B3EDBDA5D472C",
+                     "DownloadUrl":  "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@BasicTerritories.zip"
+                 },
+                 {
+                     "FileName":  "Mods/@VPPAdminTools.zip",
+                     "Size":  4561780,
+                     "MD5":  "9A2F5F7C246A74EF1EAFFBD379C4D670",
+                     "DownloadUrl":  "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@VPPAdminTools.zip"
+                 },
+                 {
+                     "FileName":  "Mods/@Airdrop-Upgraded.zip",
+                     "Size":  15749732,
+                     "MD5":  "BCC31BB6E1EF3BA9ADEA9089FBBE894A",
+                     "DownloadUrl":  "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@Airdrop-Upgraded.zip"
+                 },
+                 {
+                     "FileName":  "Mods/@IRP-Land-Rover-Defender-110.zip",
+                     "Size":  107922755,
+                     "MD5":  "02EA66B0177F5855A72A42B650D9406C",
+                     "DownloadUrl":  "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@IRP-Land-Rover-Defender-110.zip"
+                 },
+                 {
+                     "FileName":  "Mods/@SurvivorAnimations.zip",
+                     "Size":  31372205,
+                     "MD5":  "03FE696AE65979B09F11DE482667A995",
+                     "DownloadUrl":  "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@SurvivorAnimations.zip"
+                 },
+                 {
+                     "FileName":  "Mods/@RaG_Vehicle_Pack.zip",
+                     "Size":  1044501735,
+                     "MD5":  "6E2E57E50FEF7B9F73D4598EB7EE851A",
+                     "DownloadUrl":  "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@RaG_Vehicle_Pack.zip"
+                 },
+                 {
+                     "FileName":  "Mods/@Breachingcharge.zip",
+                     "Size":  12626070,
+                     "MD5":  "1A41FE9126DB7F9C4FDD56A6905E0B6E",
+                     "DownloadUrl":  "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@Breachingcharge.zip"
+                 },
+                 {
+                     "FileName":  "Mods/@DayZ-Expansion.zip",
+                     "Size":  109561056,
+                     "MD5":  "DE3A45A1B28D5388C1668FC676B8BF09",
+                     "DownloadUrl":  "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@DayZ-Expansion.zip"
+                 }
+             ]
 }
