@@ -1,20 +1,21 @@
 {
     "enabled":  true,
     "latestVersion":  "1.0.2",
-    "minimumRequiredVersion":  "1.0.0",
-    "forceUpdate":  false,
-    "title":  "AtualizaÃ§Ã£o disponÃ­vel",
-    "message":  "Uma nova versÃ£o do Launcher RefÃºgioZ estÃ¡ disponÃ­vel.",
-    "downloadUrl":  "https://raw.githubusercontent.com/RustFamily/refugioz/main/launcher/Ref%C3%BAgioZ.exe",
-    "updaterUrl":  "https://raw.githubusercontent.com/RustFamily/refugioz/main/launcher/Ref%C3%BAgioZ_Update.exe",
-    "sha256":  "634e76ffce6f0281099627f5ae1e76110bad6ba39ce9227c0535b999c625258e",
-    "updaterSha256":  "f0dc1ab4c7254358a92791d6e69b5ca65ef280d43677c6b98ab8aa74d157b9ff",
-    "fileName":  "RefÃºgioZ.exe",
-    "updaterFileName":  "RefÃºgioZ_Update.exe",
+    "minimumRequiredVersion":  "1.0.2",
+    "forceUpdate":  true,
+    "title":  "Atualização obrigatória",
+    "message":  "Esta versão do Launcher RefúgioZ é obrigatória para continuar jogando.",
+    "downloadPath":  "launcher/RefúgioZ.exe",
+    "updaterPath":  "launcher/RefúgioZ_Update.exe",
+    "sha256":  "57fc536e377f9494ca798451bbbfd2f36ccb31afd52104b21d4db37bc28a8170",
+    "updaterSha256":  "ca851cff864e176284e496c69551093a4b5d57abf8a3ea329e16a10165ec5f53",
+    "fileName":  "RefúgioZ.exe",
+    "updaterFileName":  "RefúgioZ_Update.exe",
     "releaseNotes":  [
-                         "CorreÃ§Ãµes crÃ­ticas na distribuiÃ§Ã£o pÃºblica do launcher.",
-                         "Launcher principal agora sobe em pasta limpa sem DLLs externas do pacote antigo.",
-                         "AtualizaÃ§Ã£o das URLs remotas do launcher.",
-                         "Melhorias gerais de estabilidade."
+                         "Distribuição privada do launcher.",
+                         "Bloqueio dos launchers antigos.",
+                         "Correções no update remoto.",
+                         "Correções no anticheat remoto.",
+                         "Ajuste visual do webhook anticheat."
                      ]
 }
