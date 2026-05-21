@@ -1,20 +1,20 @@
-{
+﻿{
     "enabled":  true,
-    "latestVersion":  "1.0.1",
+    "latestVersion":  "1.0.2",
     "minimumRequiredVersion":  "1.0.0",
     "forceUpdate":  false,
     "title":  "Atualização disponível",
     "message":  "Uma nova versão do Launcher RefúgioZ está disponível.",
     "downloadUrl":  "https://raw.githubusercontent.com/RustFamily/refugioz/main/launcher/Ref%C3%BAgioZ.exe",
     "updaterUrl":  "https://raw.githubusercontent.com/RustFamily/refugioz/main/launcher/Ref%C3%BAgioZ_Update.exe",
-    "sha256":  "59259e50b94a6e1102e3cb03eede0d9c79531d91282748addc34238ac2ff191f",
+    "sha256":  "634e76ffce6f0281099627f5ae1e76110bad6ba39ce9227c0535b999c625258e",
     "updaterSha256":  "f0dc1ab4c7254358a92791d6e69b5ca65ef280d43677c6b98ab8aa74d157b9ff",
     "fileName":  "RefúgioZ.exe",
     "updaterFileName":  "RefúgioZ_Update.exe",
     "releaseNotes":  [
-                         "Correções no sistema de update remoto.",
+                         "Correções críticas na distribuição pública do launcher.",
+                         "Launcher principal agora sobe em pasta limpa sem DLLs externas do pacote antigo.",
                          "Atualização das URLs remotas do launcher.",
-                         "Configuração do anticheat remoto.",
                          "Melhorias gerais de estabilidade."
                      ]
 }
