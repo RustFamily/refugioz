@@ -1,15 +1,15 @@
 {
-    "generatedAt":  "2026-05-22T01:21:15.9208629Z",
-    "files":  [
-                  {
-                      "fileName":  "launcher/RefúgioZ.exe",
-                      "size":  6804480,
-                      "sha256":  "163140d4d328f357bdcf8b861760c5851073197b7cd3eb1c3aac39ec8f111080"
-                  },
-                  {
-                      "fileName":  "launcher/RefúgioZ_Update.exe",
-                      "size":  81920,
-                      "sha256":  "5a623e06723d45d48421baf6f1d0e47420269ef7874a7957f4fa902482941387"
-                  }
-              ]
+  "generatedAt": "2026-05-22T01:40:21.6336384Z",
+  "files": [
+    {
+      "fileName": "launcher/RefúgioZ.exe",
+      "size": 6804480,
+      "sha256": "7f68e7dba2ff628e6f5e288314d8a82813a7ac1735be7f843d9b3b102b4e11c9"
+    },
+    {
+      "fileName": "launcher/RefúgioZ_Update.exe",
+      "size": 81920,
+      "sha256": "5a623e06723d45d48421baf6f1d0e47420269ef7874a7957f4fa902482941387"
+    }
+  ]
 }
