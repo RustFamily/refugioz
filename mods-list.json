@@ -9,7 +9,7 @@
     "Server2": {
       "IP": "189.127.165.103",
       "Port": "2302",
-      "Name": "RefúgioZ"
+      "Name": "RefugioZ"
     }
   },
   "ExistingMods": [
@@ -43,62 +43,72 @@
   "Mods": [
     {
       "FileName": "Mods/@DayZ-Expansion-Book.zip",
-      "Size": 37463513,
+      "Size": 37462873,
       "MD5": "3F88850CD547CF39161C31ED38CE37EC",
+      "SHA256": "2A3B428724B21E43F750EF81EB3EE94BCB0BEF7D2F9D25BBD6EEC167852F50D2",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@DayZ-Expansion-Book.zip"
     },
     {
       "FileName": "Mods/@DayZ-Expansion-Navigation.zip",
       "Size": 1401355,
       "MD5": "9476F0DA47A94F8454159F327A02D0B1",
+      "SHA256": "3662242CA380500E585C1C2885C8543623EBE07B5CC98242BA1F6737E2DA2767",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@DayZ-Expansion-Navigation.zip"
     },
     {
       "FileName": "Mods/@BasicTerritories.zip",
       "Size": 64766,
       "MD5": "722CA52023A1EFDB2C3B3EDBDA5D472C",
+      "SHA256": "8AFA163543B154E338FD255032F4062D8F07C896ADEAEE2F66925FC07158F028",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@BasicTerritories.zip"
     },
     {
       "FileName": "Mods/@VPPAdminTools.zip",
       "Size": 4561780,
       "MD5": "9A2F5F7C246A74EF1EAFFBD379C4D670",
+      "SHA256": "DAF11F3EA571BFF19429F873EB1F6D8DD0FCF949F6ABD99D457180358B84D834",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@VPPAdminTools.zip"
     },
     {
       "FileName": "Mods/@Airdrop-Upgraded.zip",
       "Size": 15749732,
       "MD5": "BCC31BB6E1EF3BA9ADEA9089FBBE894A",
+      "SHA256": "8343D38196A37D47BFD468F5DC8E9744685F22AFB4D052214896B0556180B1BA",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@Airdrop-Upgraded.zip"
     },
     {
       "FileName": "Mods/@IRP-Land-Rover-Defender-110.zip",
       "Size": 107922755,
       "MD5": "02EA66B0177F5855A72A42B650D9406C",
+      "SHA256": "872736894C781D6D996F885F113312FFA20B22F5BD6FAA523255FC2511C25118",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@IRP-Land-Rover-Defender-110.zip"
     },
     {
       "FileName": "Mods/@SurvivorAnimations.zip",
       "Size": 31372205,
       "MD5": "03FE696AE65979B09F11DE482667A995",
+      "SHA256": "97FA990DC4FCEE2D60F324BA951FB9D08E9E1DF5BA47CAFF2EA375115838A398",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@SurvivorAnimations.zip"
     },
     {
       "FileName": "Mods/@RaG_Vehicle_Pack.zip",
       "Size": 1044501735,
       "MD5": "6E2E57E50FEF7B9F73D4598EB7EE851A",
+      "SHA256": "D35142FEB009942D8A50246404839E8BD64BFA4EB1079A33EF6232254F5DB8D9",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@RaG_Vehicle_Pack.zip"
     },
     {
       "FileName": "Mods/@Breachingcharge.zip",
       "Size": 12626070,
       "MD5": "1A41FE9126DB7F9C4FDD56A6905E0B6E",
+      "SHA256": "F49CB679B67EF98CCD81554DEB81618826C0F7E0F2D3E1EE2A02379BAF6E3816",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@Breachingcharge.zip"
     },
     {
       "FileName": "Mods/@DayZ-Expansion.zip",
       "Size": 109561056,
       "MD5": "DE3A45A1B28D5388C1668FC676B8BF09",
+      "SHA256": "63AE6B92DDCB56E1BE3305C545B0546FBF32BC9905718A1D8E18FA712B02216B",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@DayZ-Expansion.zip"
     }
   ]
