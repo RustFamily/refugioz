@@ -98,10 +98,17 @@
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@RaG_Vehicle_Pack.zip"
     },
     {
-      "FileName": "Mods/@Breachingcharge.zip",
-      "Size": 12626070,
+      "FileName": "Mods/@QuickTransfer.zip",
+      "Size": 77478,
       "MD5": "1A41FE9126DB7F9C4FDD56A6905E0B6E",
       "SHA256": "F49CB679B67EF98CCD81554DEB81618826C0F7E0F2D3E1EE2A02379BAF6E3816",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@QuickTransfer.zip"
+    },
+    {
+      "FileName": "Mods/@Breachingcharge.zip",
+      "Size": 12626070,
+      "MD5": "8B621E82A0E1C2DBC131CF22BAABD3D6",
+      "SHA256": "87EAE67DAC56FFED9F485F0C30F525526849D87EA88807CFB9F96DA396F5C5CC",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@Breachingcharge.zip"
     },
     {
