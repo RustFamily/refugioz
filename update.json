@@ -1,20 +1,20 @@
 {
-  "enabled": true,
-  "latestVersion": "1.0.3",
-  "minimumRequiredVersion": "1.0.3",
-  "forceUpdate": true,
-  "title": "Atualização obrigatória",
-  "message": "Uma nova versão do Launcher RefúgioZ está disponível com correções importantes no sistema de mods. Atualize para continuar jogando.",
-  "downloadPath": "launcher/RefúgioZ.exe",
-  "updaterPath": "launcher/RefúgioZ_Update.exe",
-  "sha256": "7f68e7dba2ff628e6f5e288314d8a82813a7ac1735be7f843d9b3b102b4e11c9",
-  "updaterSha256": "5a623e06723d45d48421baf6f1d0e47420269ef7874a7957f4fa902482941387",
-  "fileName": "RefúgioZ.exe",
-  "updaterFileName": "RefúgioZ_Update.exe",
-  "releaseNotes": [
-    "Correção no sistema de instalação dos mods.",
-    "Correção na criação automática das pastas dos mods.",
-    "Correção no reparo de mods baixados em ZIP.",
-    "Melhorias no download privado via GitHub API."
-  ]
+    "enabled":  true,
+    "latestVersion":  "1.0.4",
+    "minimumRequiredVersion":  "1.0.4",
+    "forceUpdate":  true,
+    "title":  "Atualização obrigatória",
+    "message":  "Uma nova versão do Launcher RefúgioZ está disponível com correções importantes na verificação dos mods. Atualize para continuar jogando.",
+    "downloadPath":  "launcher/RefúgioZ.exe",
+    "updaterPath":  "launcher/RefúgioZ_Update.exe",
+    "sha256":  "5a488c7850679eca833d139b1c7f3c16fdfea55bf4392af12e9d8abd2d7ff14e",
+    "updaterSha256":  "5a623e06723d45d48421baf6f1d0e47420269ef7874a7957f4fa902482941387",
+    "fileName":  "RefúgioZ.exe",
+    "updaterFileName":  "RefúgioZ_Update.exe",
+    "releaseNotes":  [
+                         "Correção no fluxo de verificação dos mods.",
+                         "Falhas de timeout dos dados do servidor não interrompem mais a sincronização.",
+                         "Melhorias no fallback com cache do mods-list privado.",
+                         "Tempo de download ampliado para mods grandes via GitHub privado."
+                     ]
 }
