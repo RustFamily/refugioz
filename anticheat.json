@@ -419,7 +419,9 @@
     ]
   },
   "hashblock": [],
-  "hashban": [],
+  "hashban": [
+    "7e7de96cabcc9cc73c4e36d54bc820350db65be373c3b607b3443d19f6241bd0"
+  ],
   "warningMessage": "⚠️ SISTEMA ANTICHEAT - REFÚGIOZ\n\nProcesso não autorizado detectado: {processName}\n\nO jogo e o launcher serão encerrados.\n\nEsta violação foi registrada e será analisada pela equipe.\n\nReincidências podem resultar em banimento permanente.",
   "updateMessage": "Sistema anticheat atualizado com sucesso!"
 }
