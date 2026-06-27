@@ -114,6 +114,13 @@
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@Breachingcharge.zip"
     },
     {
+      "FileName": "Mods/@RefugioZAuth.zip",
+      "Size": 11474,
+      "MD5": "A772EF841BBB438593A876827A976C5D",
+      "SHA256": "142E8F9AE21AAEDADBFC25AB3CB2F91D32B66A45A41C59BB7BAF7108F9AA365C",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@RefugioZAuth.zip"
+    },
+    {
       "FileName": "Mods/@DayZ-Expansion.zip",
       "Size": 109561056,
       "MD5": "DE3A45A1B28D5388C1668FC676B8BF09",
