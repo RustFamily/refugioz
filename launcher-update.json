@@ -1,20 +1,20 @@
 {
   "enabled": true,
-  "latestVersion": "1.0.13",
-  "minimumRequiredVersion": "1.0.13",
-  "forceUpdate": false,
+  "latestVersion": "1.0.14",
+  "minimumRequiredVersion": "1.0.14",
+  "forceUpdate": true,
   "title": "Launcher atualizado",
   "message": "Uma nova versao do Launcher RefugioZ esta disponivel.",
   "downloadPath": "launcher/RefúgioZ.exe",
   "updaterPath": "launcher/RefúgioZ_Update.exe",
-  "sha256": "97C751391EF62F4EED094A43F190CE5CA4C19F9F12A7D0AE69F13721242BC898",
-  "updaterSha256": "5E2203B9908D1EB27ED7490C670AC7B8036F86690F6FF01FB22D73978B0CC565",
+  "sha256": "1515FD7694A5C1015F96B94B31B37A7E47789F18807AEBEE2912511D4EC54377",
+  "updaterSha256": "19ECB82AF9D1D2B550579D220D97FEC6EE4A670D2E1D1402013632E1072A5E47",
   "fileName": "RefúgioZ.exe",
   "updaterFileName": "RefúgioZ_Update.exe",
   "releaseNotes": [
-    "Build 1.0.13 com update oficial via GitHub",
+    "Build 1.0.14 com update oficial via GitHub",
     "Manifesto principal em launcher-update.json com compatibilidade via update.json",
-    "Launcher e updater alinhados em 1.0.13",
+    "Launcher e updater alinhados em 1.0.14",
     "Sem dependencia da API como fonte principal de update",
     "Mensagens de erro do updater mais claras para manifesto GitHub ausente ou privado"
   ]
