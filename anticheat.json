@@ -420,7 +420,11 @@
   },
   "hashblock": [],
   "hashban": [
-    "7e7de96cabcc9cc73c4e36d54bc820350db65be373c3b607b3443d19f6241bd0"
+    "7e7de96cabcc9cc73c4e36d54bc820350db65be373c3b607b3443d19f6241bd0",
+    "e0fe3ac43d9645e0d9c018a03fc8805c5edea75a484cc4b2947576d27dfcb707",
+    "e0b298266ec57368b38b6093291104a19660715fd6f436f056cbc73d0051e8fe",
+    "02a9c0ab0878a5c56b811d80aadd4e1f4529de9a955441e8e622e146dceb927d",
+    "a3b01ab8e054f5308b507c4543bce645b8287e080b4a48f938223873aa0e96d9"
   ],
   "warningMessage": "⚠️ SISTEMA ANTICHEAT - REFÚGIOZ\n\nProcesso não autorizado detectado: {processName}\n\nO jogo e o launcher serão encerrados.\n\nEsta violação foi registrada e será analisada pela equipe.\n\nReincidências podem resultar em banimento permanente.",
   "updateMessage": "Sistema anticheat atualizado com sucesso!"
