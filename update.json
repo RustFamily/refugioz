@@ -1,20 +1,21 @@
-﻿{
-    "enabled":  true,
-    "latestVersion":  "1.0.12",
-    "minimumRequiredVersion":  "1.0.12",
-    "forceUpdate":  true,
-    "title":  "Atualização obrigatória",
-    "message":  "Uma nova versão do Launcher RefúgioZ está disponível com correções importantes no fluxo de verificação e instalação dos mods. Atualize para continuar jogando.",
-    "downloadPath":  "launcher/RefúgioZ.exe",
-    "updaterPath":  "launcher/RefúgioZ_Update.exe",
-    "sha256":  "3632BB3453614421C7203A1FE00E43D282DE08E67527F0935ED0AE64D848EB43",
-    "updaterSha256":  "C80630BF1C47C7C26F6319DD834B097079E02C302C9F643871C974F3BD48B1F3",
-    "fileName":  "RefúgioZ.exe",
-    "updaterFileName":  "RefúgioZ_Update.exe",
-    "releaseNotes":  [
-                         "Correção no fluxo de verificação dos mods.",
-                         "A análise pesada dos mods não trava mais a interface em 10%.",
-                         "Logs e etapas da sincronização ficaram mais claros por mod.",
-                         "Downloads e reinstalação de mods via GitHub privado continuam funcionando."
-                     ]
+{
+  "enabled": true,
+  "latestVersion": "1.0.13",
+  "minimumRequiredVersion": "1.0.13",
+  "forceUpdate": false,
+  "title": "Launcher atualizado",
+  "message": "Uma nova versao do Launcher RefugioZ esta disponivel.",
+  "downloadPath": "launcher/RefúgioZ.exe",
+  "updaterPath": "launcher/RefúgioZ_Update.exe",
+  "sha256": "282069783b5f6b94be6e8996f9f6952955f97b84d5572d9395423563c547638b",
+  "updaterSha256": "5e2203b9908d1eb27ed7490c670ac7b8036f86690f6ff01fb22d73978b0cc565",
+  "fileName": "RefúgioZ.exe",
+  "updaterFileName": "RefúgioZ_Update.exe",
+  "releaseNotes": [
+    "Build 1.0.13 com update oficial via GitHub",
+    "Manifesto principal em launcher-update.json com compatibilidade via update.json",
+    "Launcher e updater alinhados em 1.0.13",
+    "Sem dependencia da API como fonte principal de update",
+    "Mensagens de erro do updater mais claras para manifesto GitHub ausente ou privado"
+  ]
 }
