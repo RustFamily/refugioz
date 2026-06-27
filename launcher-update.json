@@ -7,8 +7,8 @@
     "message":  "Uma nova versão do Launcher RefúgioZ está disponível com correções importantes no fluxo de verificação e instalação dos mods. Atualize para continuar jogando.",
     "downloadPath":  "launcher/RefúgioZ.exe",
     "updaterPath":  "launcher/RefúgioZ_Update.exe",
-    "sha256":  "CF560B9A551326B546AC9B1BA7D93A77CE48BBF48D94F1D1A45B12CE3EBEA870",
-    "updaterSha256":  "53FA236594870BA72E622B76C0418E0FB8F19D8205EDCA96EA098997E96107DD",
+    "sha256":  "3632BB3453614421C7203A1FE00E43D282DE08E67527F0935ED0AE64D848EB43",
+    "updaterSha256":  "C80630BF1C47C7C26F6319DD834B097079E02C302C9F643871C974F3BD48B1F3",
     "fileName":  "RefúgioZ.exe",
     "updaterFileName":  "RefúgioZ_Update.exe",
     "releaseNotes":  [
