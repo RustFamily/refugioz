@@ -1,8 +1,8 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.12",
   "enabled": true,
   "scanIntervalSeconds": 5,
-  "lastUpdate": "2026-06-18",
+  "lastUpdate": "2026-06-27",
   "blockedProcesses": [
     "cheatengine",
     "cheatengine-x86_64",
