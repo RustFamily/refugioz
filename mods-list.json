@@ -39,7 +39,7 @@
     "@RaG_Vehicle_Pack",
     "@SurvivorAnimations",
     "QuickTransfer",
-    "@RefugioZAuth",
+    "@RefugioZAuth2",
     "@BasicTerritories"
   ],
   "Mods": [
@@ -114,11 +114,11 @@
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@Breachingcharge.zip"
     },
     {
-      "FileName": "Mods/@RefugioZAuth.zip",
-      "Size": 11474,
-      "MD5": "A772EF841BBB438593A876827A976C5D",
-      "SHA256": "142E8F9AE21AAEDADBFC25AB3CB2F91D32B66A45A41C59BB7BAF7108F9AA365C",
-      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@RefugioZAuth.zip"
+      "FileName": "Mods/@RefugioZAuth2.zip",
+      "Size": 13439,
+      "MD5": "D6509DA1CD069E3C4B9C709162FCF1C7",
+      "SHA256": "BA3600F5CAB530F6E4DA4C0FF18BD8AE42753BE3D10332FD56DCD0F3D4A1B9C3",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@RefugioZAuth2.zip"
     },
     {
       "FileName": "Mods/@DayZ-Expansion.zip",
