@@ -7,7 +7,7 @@
   "message": "Uma nova versao do Launcher RefugioZ esta disponivel.",
   "downloadPath": "launcher/RefúgioZ.exe",
   "updaterPath": "launcher/RefúgioZ_Update.exe",
-  "sha256": "BA6878790BBC726603BC91346810D9C2149AE32A442CF4F75C43ABDC32968501",
+  "sha256": "C839D424FEB3C5897C8C3DF2AD612826D5B1C3582C845E2C09CDD51ACB6CF8A7",
   "updaterSha256": "545887E66F1F58D108F13834C422138B7535B9B3B157A4CA79E0E9011FFABF94",
   "fileName": "RefúgioZ.exe",
   "updaterFileName": "RefúgioZ_Update.exe",
