@@ -4,12 +4,7 @@
     "Server1": {
       "IP": "189.127.165.103",
       "Port": "2302",
-      "Name": "LOCAL"
-    },
-    "Server2": {
-      "IP": "189.127.165.103",
-      "Port": "2302",
-      "Name": "RefugioZ"
+      "Name": "RefúgioZ"
     }
   },
   "ExistingMods": [
@@ -38,9 +33,9 @@
     "@Airdrop-Upgraded",
     "@RaG_Vehicle_Pack",
     "@SurvivorAnimations",
-    "QuickTransfer",
-    "@RefugioZAuth3",
-    "@BasicTerritories"
+    "@QuickTransfer",
+    "@BasicTerritories",
+    "@IRP-Land-Rover-Defender-110"
   ],
   "Mods": [
     {
@@ -112,13 +107,6 @@
       "MD5": "1A41FE9126DB7F9C4FDD56A6905E0B6E",
       "SHA256": "F49CB679B67EF98CCD81554DEB81618826C0F7E0F2D3E1EE2A02379BAF6E3816",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@Breachingcharge.zip"
-    },
-    {
-      "FileName": "Mods/@RefugioZAuth3.zip",
-      "Size": 11124,
-      "MD5": "8768C9F88712CFD26F9640504E109FFB",
-      "SHA256": "C92CFA54086ED3F229C8BEF9F0E9B9F965CF0B4DEBBD6D3FB8D27EB81FFFBDE2",
-      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@RefugioZAuth3.zip"
     },
     {
       "FileName": "Mods/@DayZ-Expansion.zip",
