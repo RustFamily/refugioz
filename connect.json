@@ -1,1 +1,40 @@
-
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-07-07T00:00:00-03:00",
+  "project": "RefúgioZ",
+  "environment": "production",
+  "api": {
+    "primaryUrl": "https://api.refugioz.org",
+    "fallbackUrl": "",
+    "healthPath": "/health",
+    "timeoutSeconds": 12
+  },
+  "emergency": {
+    "enabled": false,
+    "modeName": "Modo Emergência",
+    "messageTitle": "Modo Emergência ativado",
+    "message": "A API do RefúgioZ está temporariamente instável. A equipe ativou o modo emergência manual para manter o acesso ao servidor.",
+    "warning": "Este modo é temporário e só deve ser usado durante instabilidade real. Algumas validações online podem ficar indisponíveis até a normalização.",
+    "operatorInstruction": "Para o servidor aceitar conexões em emergência, o operador precisa desativar manualmente o mod/validador RefugioZAuth. No restart diário, o mod deve voltar normalmente.",
+    "allowLaunchWhenApiUnavailable": true,
+    "useEmergencyEndpoint": true,
+    "cacheTtlSeconds": 300,
+    "maxCacheAgeSeconds": 900
+  },
+  "servers": [
+    {
+      "id": "refugioz-main",
+      "name": "RefúgioZ",
+      "description": "Servidor principal RefúgioZ DayZ",
+      "enabled": true,
+      "normal": {
+        "host": "189.127.165.103",
+        "port": 2302
+      },
+      "emergency": {
+        "host": "189.127.165.103",
+        "port": 2302
+      }
+    }
+  ]
+}
