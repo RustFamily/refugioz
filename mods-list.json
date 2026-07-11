@@ -35,6 +35,7 @@
     "@SurvivorAnimations",
     "@QuickTransfer",
     "@BasicTerritories",
+    "@DayZHorse",
     "@IRP-Land-Rover-Defender-110"
   ],
   "Mods": [
@@ -107,6 +108,13 @@
       "MD5": "1A41FE9126DB7F9C4FDD56A6905E0B6E",
       "SHA256": "F49CB679B67EF98CCD81554DEB81618826C0F7E0F2D3E1EE2A02379BAF6E3816",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@Breachingcharge.zip"
+    },
+    {
+      "FileName": "Mods/@DayZHorse.zip",
+      "Size": 252486635,
+      "MD5": "87348CD5292F3EC4AEFBBE84E25436D0",
+      "SHA256": "3743E1E323916B81052E890A601B7655725D9113A2F1D5744834CE0E3DAFADD4",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@DayZHorse.zip"
     },
     {
       "FileName": "Mods/@DayZ-Expansion.zip",
