@@ -10,7 +10,7 @@
     "timeoutSeconds": 12
   },
   "emergency": {
-    "enabled": false,
+    "enabled": true,
     "modeName": "Modo Emergência",
     "messageTitle": "Modo Emergência ativado",
     "message": "A API do RefúgioZ está temporariamente instável. A equipe ativou o modo emergência manual para manter o acesso ao servidor.",
