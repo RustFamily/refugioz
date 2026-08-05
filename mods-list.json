@@ -35,6 +35,7 @@
     "@SurvivorAnimations",
     "@QuickTransfer",
     "@BasicTerritories",
+    "@AdvancedWeaponScopes",
     "@IRP-Land-Rover-Defender-110"
   ],
   "Mods": [
@@ -107,6 +108,13 @@
       "MD5": "1A41FE9126DB7F9C4FDD56A6905E0B6E",
       "SHA256": "F49CB679B67EF98CCD81554DEB81618826C0F7E0F2D3E1EE2A02379BAF6E3816",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@Breachingcharge.zip"
+    },
+    {
+      "FileName": "Mods/@AdvancedWeaponScopes.zip",
+      "Size": 235062724,
+      "MD5": "ADDF4744BB3524EFD664D01C274B1164",
+      "SHA256": "109F34D9BE1E9ADCCCD91836FF983A6FF34665A769C4CA7E87434FFBE0C6AF2A",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@AdvancedWeaponScopes.zip"
     },
     {
       "FileName": "Mods/@DayZ-Expansion.zip",
