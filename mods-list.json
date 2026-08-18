@@ -37,6 +37,7 @@
     "@BasicTerritories",
     "@AdvancedWeaponScopes",
     "@Dogtags",
+    "@BetterTrac",
     "@IRP-Land-Rover-Defender-110"
   ],
   "Mods": [
@@ -123,6 +124,13 @@
       "MD5": "27B78E0EACCC9ABC5717D6064C5CCAD1",
       "SHA256": "F22BFC4D92131A718E6732FD7F3A715FD6FB5EBC7AD331EAB43FCA6035D27452",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@Dogtags.zip"
+    },
+    {
+      "FileName": "Mods/@BetterTrac.zip",
+      "Size": 2771,
+      "MD5": "E4BE209BF2A44665B471669B3C076C81",
+      "SHA256": "3A92634E0BE6B47ED23FDAA68A5663045200C52D66EC4D6FCFB5E625B8741DA1",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@BetterTrac.zip"
     },
     {
       "FileName": "Mods/@DayZ-Expansion.zip",
