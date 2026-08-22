@@ -39,6 +39,8 @@
     "@Dogtags",
     "@BetterTrac",
     "@RepaireRadiator",
+    "@StackMoreItems",
+    "@ClothingSlotsFix",
     "@IRP-Land-Rover-Defender-110"
   ],
   "Mods": [
@@ -139,6 +141,20 @@
       "MD5": "39EF27540807D70453143F95842AABF7",
       "SHA256": "391D192893E4A0CD1CBBF318880173B57B4BFF007653DCC04292B24CC6C92546",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@RepaireRadiator.zip"
+    },
+    {
+      "FileName": "Mods/@ClothingSlotsFix.zip",
+      "Size": 4096,
+      "MD5": "9563E18625F8F4A62C7C479EF00F5B2E",
+      "SHA256": "CA26D739A29FDAA2EDF06E091064AF1394175A26921F42BA19F3A9190EC73D30",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@ClothingSlotsFix.zip"
+    },
+    {
+      "FileName": "Mods/@StackMoreItems.zip",
+      "Size": 94208,
+      "MD5": "F03FC79CD985ADCDD247D5A5FD167DF3",
+      "SHA256": "D71C0B3D614E5AB395117B50D0E6233DC1802EECF96CCE60B32EB470FC88A376",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@StackMoreItems.zip"
     },
     {
       "FileName": "Mods/@DayZ-Expansion.zip",
