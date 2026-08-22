@@ -157,6 +157,13 @@
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@StackMoreItems.zip"
     },
     {
+      "FileName": "Mods/@ArzzzWeapons.zip",
+      "Size": 113193353,
+      "MD5": "CB157AABFF96237CA2E3E167990EFD0E",
+      "SHA256": "F08DCA86BE1AA09B547275625A5B64BF90E118ED3F2ADB50B603DB48EF57AA81",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@ArzzzWeapons.zip"
+    },
+    {
       "FileName": "Mods/@DayZ-Expansion.zip",
       "Size": 109561056,
       "MD5": "DE3A45A1B28D5388C1668FC676B8BF09",
