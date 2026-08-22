@@ -38,6 +38,7 @@
     "@AdvancedWeaponScopes",
     "@Dogtags",
     "@BetterTrac",
+    "@RepaireRadiator",
     "@IRP-Land-Rover-Defender-110"
   ],
   "Mods": [
@@ -131,6 +132,13 @@
       "MD5": "E4BE209BF2A44665B471669B3C076C81",
       "SHA256": "3A92634E0BE6B47ED23FDAA68A5663045200C52D66EC4D6FCFB5E625B8741DA1",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@BetterTrac.zip"
+    },
+    {
+      "FileName": "Mods/@RepaireRadiator.zip",
+      "Size": 1695,
+      "MD5": "39EF27540807D70453143F95842AABF7",
+      "SHA256": "391D192893E4A0CD1CBBF318880173B57B4BFF007653DCC04292B24CC6C92546",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@RepaireRadiator.zip"
     },
     {
       "FileName": "Mods/@DayZ-Expansion.zip",
