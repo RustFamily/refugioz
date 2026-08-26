@@ -44,6 +44,7 @@
     "@ArzzzWeapons",
     "@FOVRevert",
     "@FOVRevert2",
+    "@UnknownGhillieMod",
     "@IRP-Land-Rover-Defender-110"
   ],
   "Mods": [
@@ -179,6 +180,13 @@
       "MD5": "70ED88E3FF713DB832B78591EED17030",
       "SHA256": "4221F365DC633651651149CB651AAF83871D847EE50F1EB1B20B7E0BF77DE7D9",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@FOVRevert2.zip"
+    },
+    {
+      "FileName": "Mods/@UnknownGhillieMod.zip",
+      "Size": 7508526,
+      "MD5": "F05E906A36210AD27C58D1745DA2105F",
+      "SHA256": "76E5C47D52ED7581EAE78C01E9FAABD67F83E4DC15FCF0BEC064AB3E3E115C45",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@UnknownGhillieMod.zip"
     },
     {
       "FileName": "Mods/@DayZ-Expansion.zip",
