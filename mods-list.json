@@ -45,6 +45,7 @@
     "@FOVRevert",
     "@FOVRevert2",
     "@UnknownGhillieMod",
+    "@HeliRefugio",
     "@IRP-Land-Rover-Defender-110"
   ],
   "Mods": [
@@ -187,6 +188,13 @@
       "MD5": "F05E906A36210AD27C58D1745DA2105F",
       "SHA256": "76E5C47D52ED7581EAE78C01E9FAABD67F83E4DC15FCF0BEC064AB3E3E115C45",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@UnknownGhillieMod.zip"
+    },
+    {
+      "FileName": "Mods/@HeliRefugio.zip",
+      "Size": 138335532,
+      "MD5": "ED6E4AB0DE9961E24B92912987FDCDA6",
+      "SHA256": "C36C73D847139BDB90EE3E213FF104B8D7957C5F2D50B039D76EE63539D72E05",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@HeliRefugio.zip"
     },
     {
       "FileName": "Mods/@DayZ-Expansion.zip",
