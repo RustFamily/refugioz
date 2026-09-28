@@ -49,7 +49,7 @@
     "@ModVipPart1",
     "@ModVipPart2",
     "@ModVipPart3",
-    "@ModVipPart4",
+    "@ReduceVehicleDamage",
     "@IRP-Land-Rover-Defender-110"
   ],
   "Mods": [
@@ -222,11 +222,11 @@
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@ModVipPart3.zip"
     },
     {
-      "FileName": "Mods/@ModVipPart4.zip",
-      "Size": 130968798,
-      "MD5": "B505489D67AFCED252881166CD2AC2AF",
-      "SHA256": "FF19AFE14622C49AF9E1171526A0764B16747C6CC4D58CFBD6D6C7F46C501192",
-      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@ModVipPart4.zip"
+      "FileName": "Mods/@ReduceVehicleDamage.zip",
+      "Size": 7706,
+      "MD5": "B8353C63F9C35B1BFC6200DA6A22D95B",
+      "SHA256": "FA91E041202531BDC27ABCA02B7C4F263C0DF5A5553E03E36C44BB1A4D7750C3",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@ReduceVehicleDamage.zip"
     },
     {
       "FileName": "Mods/@DayZ-Expansion.zip",
