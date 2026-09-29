@@ -221,6 +221,13 @@
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@ModVipPart3.zip"
     },
     {
+      "FileName": "Mods/@DayZExpansionAI.zip",
+      "Size": 17274,
+      "MD5": "8654B095580184F6228E22027FE14845",
+      "SHA256": "B7ADF0B85328F42DB62ED69E109A1CC94DF8C304C601C94C3DDD39279823D8ED",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@DayZExpansionAI.zip"
+    },
+    {
       "FileName": "Mods/@DayZ-Expansion.zip",
       "Size": 109561056,
       "MD5": "DE3A45A1B28D5388C1668FC676B8BF09",
