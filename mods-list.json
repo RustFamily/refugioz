@@ -230,11 +230,11 @@
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@DayZ-Expansion-AI.zip"
     },
     {
-      "FileName": "Mods/@DayZHorse.zip",
+      "FileName": "Mods/@DayZHorse2.zip",
       "Size": 238068236,
-      "MD5": "1604A3DA8F93C3F286A9D69AE6C13546",
-      "SHA256": "519F5A525B3B137809E3E1E6645441B3F99F112E9B45AF91BE04BB8F5D559290",
-      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@DayZHorse.zip"
+      "MD5": "F69F7CB4A9E2D654C447B17147B5F5F0",
+      "SHA256": "B2047951B8D3F214A89B9D23274BA4223792DE9F4499943C892E4FEF85404136",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@DayZHorse2.zip"
     },
     {
       "FileName": "Mods/@DayZ-Expansion.zip",
