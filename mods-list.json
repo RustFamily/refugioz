@@ -49,6 +49,9 @@
     "@ModVipPart1",
     "@ModVipPart2",
     "@ModVipPart3",
+    "@ChBunker",
+    "@DayZEditorLoader",
+    "@TerrainIslands",
     "@DayZ-Expansion-AI",
     "@IRP-Land-Rover-Defender-110"
   ],
@@ -227,6 +230,27 @@
       "MD5": "89CDFBC49DEE3E2DBF579191A6ABACBC",
       "SHA256": "6185E1F77BD816A85A8DEDA3FDE792DC0FFD35082A771C93BCD1B1F80FF81B5E",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@DayZ-Expansion-AI.zip"
+    },
+    {
+      "FileName": "Mods/@ChBunker.zip",
+      "Size": 35826,
+      "MD5": "1BECAF9947ACBA7D327E2964FFE09745",
+      "SHA256": "44892ADBA0170D0927CA67C1007BD2EDE92B772E393F6C18316472A67FD33356",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@ChBunker.zip"
+    },
+    {
+      "FileName": "Mods/@DayZEditorLoader.zip",
+      "Size": 4101,
+      "MD5": "495BA078218F9EDD00757547AED65CB0",
+      "SHA256": "2FBB13C0B508C21F301D9A15B754AE6241937EFE81B3E4D893A0525741B50069",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@DayZEditorLoader.zip"
+    },
+    {
+      "FileName": "Mods/@TerrainIslands.zip",
+      "Size": 188467093,
+      "MD5": "8E9D99CE5DACFE47E02E5B627231FC3E",
+      "SHA256": "13D152C1DE8F0E1F6B601051C46A4ECF6EF622F25233FB59CB98323095F5202A",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@TerrainIslands.zip"
     },
     {
       "FileName": "Mods/@DayZ-Expansion.zip",
