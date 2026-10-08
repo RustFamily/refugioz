@@ -50,7 +50,6 @@
     "@ModVipPart2",
     "@ModVipPart3",
     "@DayZ-Expansion-AI",
-    "@DayZHorse2",
     "@IRP-Land-Rover-Defender-110"
   ],
   "Mods": [
@@ -228,13 +227,6 @@
       "MD5": "89CDFBC49DEE3E2DBF579191A6ABACBC",
       "SHA256": "6185E1F77BD816A85A8DEDA3FDE792DC0FFD35082A771C93BCD1B1F80FF81B5E",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@DayZ-Expansion-AI.zip"
-    },
-    {
-      "FileName": "Mods/@DayZHorse2.zip",
-      "Size": 238071428,
-      "MD5": "F69F7CB4A9E2D654C447B17147B5F5F0",
-      "SHA256": "B2047951B8D3F214A89B9D23274BA4223792DE9F4499943C892E4FEF85404136",
-      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@DayZHorse2.zip"
     },
     {
       "FileName": "Mods/@DayZ-Expansion.zip",
