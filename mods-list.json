@@ -54,6 +54,7 @@
     "@TerrainIslands",
     "@BuilderItems",
     "@DayZ-Expansion-AI",
+    "@MAPirateTreasure",
     "@IRP-Land-Rover-Defender-110"
   ],
   "Mods": [
@@ -259,6 +260,13 @@
       "MD5": "B8E376B2CF681209DEF13A15AE69D7A2",
       "SHA256": "3027E461F6CCF7C7601676A62D14C8B44694982E73414B4B0ECB2F0DC92D8225",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@BuilderItems.zip"
+    },
+    {
+      "FileName": "Mods/@MAPirateTreasure.zip",
+      "Size": 156566,
+      "MD5": "938EA12621DFF233B2565B4FDBDF664E",
+      "SHA256": "F362C079D2872D244F546677FD85CCA137EC26D25ADDD47C44FA0E99E7794B7F",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@MAPirateTreasure.zip"
     },
     {
       "FileName": "Mods/@DayZ-Expansion.zip",
